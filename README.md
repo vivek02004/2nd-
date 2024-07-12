@@ -36,7 +36,7 @@ start
    Ensure that you have a deployed smart contract with the following ABI and address:
 
    ```json
-   const contractAddress = '0x37305d09e54fCc411832f951ADb9dD886A2A6d33';  
+   const contractAddress = '0x37305d09e54fCc411832f951ADb9dD886A2A6d33';  // address is this in solidity 
    const contractABI = [
        {
            "constant": false,
